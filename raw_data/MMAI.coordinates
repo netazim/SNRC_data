@@ -1,0 +1,21 @@
+STA                    ONDATE    OFFDATE        LAT        LON       ELEV STANAME                                            STATYPE      REFSTA                 DNORTH      DEAST       
+------------------ ---------- ---------- ---------- ---------- ---------- -------------------------------------------------- ------------ ------------------ ---------- ----------       
+MMA0                  2004024         -1   33.01518   35.40311     .80964 MOUNT MERON ARRAY ELEMENT MMA0, Israel             ss           MMA0                        0          0       
+MMA0B                 2003024         -1   33.01527   35.40305     .80927 MOUNT MERON ARRAY ELEMENT MMA0B, Israel            ss           MMA0                   .00931    -.00536       
+MMA1                  2004024         -1   33.01812    35.4062      .7765 MOUNT MERON ARRAY ELEMENT MMA1, Israel             ss           MMA0                   .32662     .28776       
+MMA2                  2004024         -1   33.01249   35.40572     .77561 MOUNT MERON ARRAY ELEMENT MMA2, Israel             ss           MMA0                  -.29788      .2449       
+MMA3                  2004024         -1   33.01205   35.40056     .79228 MOUNT MERON ARRAY ELEMENT MMA3, Israel             ss           MMA0                  -.34795    -.23722       
+MMA4                  2004024         -1   33.01462   35.39752     .85136 MOUNT MERON ARRAY ELEMENT MMA4, Israel             ss           MMA0                   -.0633    -.52229       
+MMAI                  2004024         -1   33.01518   35.40311     .80964 MOUNT MERON ARRAY, Israel                          ar           MMA0                        0          0       
+MMB1                  2004024         -1   33.01513   35.41081     .73327 MOUNT MERON ARRAY ELEMENT MMB1, Israel             ss           MMA0                  -.00444     .71964       
+MMB2                  2004024         -1   33.00971   35.39526     .87839 MOUNT MERON ARRAY ELEMENT MMB2, Israel             ss           MMA0                  -.60825    -.73238       
+MMB3                  2004024         -1   33.01954   35.39714     .81182 MOUNT MERON ARRAY ELEMENT MMB3, Israel             ss           MMA0                    .4823    -.55897       
+MMB4                  2004024         -1   33.02084   35.40199     .80628 MOUNT MERON ARRAY ELEMENT MMB4, Israel             ss           MMA0                   .62699     -.1061       
+MMC1                  2004024         -1   33.03052   35.40368     .82732 MOUNT MERON ARRAY ELEMENT MMC1, Israel             ss           MMA0                  1.70157     .05018       
+MMC2                  2004024         -1   33.02681   35.41164     .70099 MOUNT MERON ARRAY ELEMENT MMC2, Israel             ss           MMA0                  1.29152     .79458       
+MMC3                  2004024         -1   33.01826   35.41381     .71254 MOUNT MERON ARRAY ELEMENT MMC3, Israel             ss           MMA0                   .34375     .99962       
+MMC4                  2004024         -1   33.00722   35.41861     .74984 MOUNT MERON ARRAY ELEMENT MMC4, Israel             ss           MMA0                  -.87976    1.45013       
+MMC5                  2004024         -1   33.00869   35.41269     .76644 MOUNT MERON ARRAY ELEMENT MMC5, Israel             ss           MMA0                  -.71845     .89693       
+MMC6                  2004024         -1   33.01203   35.39151     .89255 MOUNT MERON ARRAY ELEMENT MMC6, Israel             ss           MMA0                  -.35124    -1.0836       
+MMC7                  2004024         -1   33.02205   35.39256     .81617 MOUNT MERON ARRAY ELEMENT MMC7, Israel             ss           MMA0                   .76049    -.98719       
+
